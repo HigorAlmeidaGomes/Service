@@ -1,0 +1,11 @@
+D:\JHF\ServiceSearchActions.Infrastructure\bin\Debug\net5.0\ServiceSearchActions.Infrastructure.deps.json
+D:\JHF\ServiceSearchActions.Infrastructure\bin\Debug\net5.0\ServiceSearchActions.Infrastructure.dll
+D:\JHF\ServiceSearchActions.Infrastructure\bin\Debug\net5.0\ServiceSearchActions.Infrastructure.pdb
+D:\JHF\ServiceSearchActions.Infrastructure\obj\Debug\net5.0\ServiceSearchActions.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\JHF\ServiceSearchActions.Infrastructure\obj\Debug\net5.0\ServiceSearchActions.Infrastructure.AssemblyInfoInputs.cache
+D:\JHF\ServiceSearchActions.Infrastructure\obj\Debug\net5.0\ServiceSearchActions.Infrastructure.AssemblyInfo.cs
+D:\JHF\ServiceSearchActions.Infrastructure\obj\Debug\net5.0\ServiceSearchActions.Infrastructure.csproj.CoreCompileInputs.cache
+D:\JHF\ServiceSearchActions.Infrastructure\obj\Debug\net5.0\ServiceSearchActions.Infrastructure.dll
+D:\JHF\ServiceSearchActions.Infrastructure\obj\Debug\net5.0\refint\ServiceSearchActions.Infrastructure.dll
+D:\JHF\ServiceSearchActions.Infrastructure\obj\Debug\net5.0\ServiceSearchActions.Infrastructure.pdb
+D:\JHF\ServiceSearchActions.Infrastructure\obj\Debug\net5.0\ref\ServiceSearchActions.Infrastructure.dll

@@ -1,0 +1,11 @@
+D:\JHF\ServiceSearchActions.Application\bin\Debug\net5.0\ServiceSearchActions.Application.deps.json
+D:\JHF\ServiceSearchActions.Application\bin\Debug\net5.0\ServiceSearchActions.Application.dll
+D:\JHF\ServiceSearchActions.Application\bin\Debug\net5.0\ServiceSearchActions.Application.pdb
+D:\JHF\ServiceSearchActions.Application\obj\Debug\net5.0\ServiceSearchActions.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\JHF\ServiceSearchActions.Application\obj\Debug\net5.0\ServiceSearchActions.Application.AssemblyInfoInputs.cache
+D:\JHF\ServiceSearchActions.Application\obj\Debug\net5.0\ServiceSearchActions.Application.AssemblyInfo.cs
+D:\JHF\ServiceSearchActions.Application\obj\Debug\net5.0\ServiceSearchActions.Application.csproj.CoreCompileInputs.cache
+D:\JHF\ServiceSearchActions.Application\obj\Debug\net5.0\ServiceSearchActions.Application.dll
+D:\JHF\ServiceSearchActions.Application\obj\Debug\net5.0\refint\ServiceSearchActions.Application.dll
+D:\JHF\ServiceSearchActions.Application\obj\Debug\net5.0\ServiceSearchActions.Application.pdb
+D:\JHF\ServiceSearchActions.Application\obj\Debug\net5.0\ref\ServiceSearchActions.Application.dll
