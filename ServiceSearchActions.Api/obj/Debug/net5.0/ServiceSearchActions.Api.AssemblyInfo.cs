@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ServiceSearchActions.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+adcc339141486a247f5ba52e6c27834a3c168f2a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+12a0574750f381edef2064ec863f117a1b9b70ba")]
 [assembly: System.Reflection.AssemblyProductAttribute("ServiceSearchActions.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ServiceSearchActions.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
