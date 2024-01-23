@@ -24,3 +24,30 @@ D:\JHF\ServiceSearchActions.Api\obj\Debug\net5.0\refint\ServiceSearchActions.Api
 D:\JHF\ServiceSearchActions.Api\obj\Debug\net5.0\ServiceSearchActions.Api.pdb
 D:\JHF\ServiceSearchActions.Api\obj\Debug\net5.0\ServiceSearchActions.Api.genruntimeconfig.cache
 D:\JHF\ServiceSearchActions.Api\obj\Debug\net5.0\ref\ServiceSearchActions.Api.dll
+C:\Users\ja-ni\OneDrive\Área de Trabalho\Projeto JHF\Service\ServiceSearchActions.Api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ja-ni\OneDrive\Área de Trabalho\Projeto JHF\Service\ServiceSearchActions.Api\bin\Debug\net5.0\appsettings.json
+C:\Users\ja-ni\OneDrive\Área de Trabalho\Projeto JHF\Service\ServiceSearchActions.Api\bin\Debug\net5.0\ServiceSearchActions.Api.exe
+C:\Users\ja-ni\OneDrive\Área de Trabalho\Projeto JHF\Service\ServiceSearchActions.Api\bin\Debug\net5.0\ServiceSearchActions.Api.deps.json
+C:\Users\ja-ni\OneDrive\Área de Trabalho\Projeto JHF\Service\ServiceSearchActions.Api\bin\Debug\net5.0\ServiceSearchActions.Api.runtimeconfig.json
+C:\Users\ja-ni\OneDrive\Área de Trabalho\Projeto JHF\Service\ServiceSearchActions.Api\bin\Debug\net5.0\ServiceSearchActions.Api.runtimeconfig.dev.json
+C:\Users\ja-ni\OneDrive\Área de Trabalho\Projeto JHF\Service\ServiceSearchActions.Api\bin\Debug\net5.0\ServiceSearchActions.Api.dll
+C:\Users\ja-ni\OneDrive\Área de Trabalho\Projeto JHF\Service\ServiceSearchActions.Api\bin\Debug\net5.0\ServiceSearchActions.Api.pdb
+C:\Users\ja-ni\OneDrive\Área de Trabalho\Projeto JHF\Service\ServiceSearchActions.Api\obj\Debug\net5.0\ServiceSearchActions.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ja-ni\OneDrive\Área de Trabalho\Projeto JHF\Service\ServiceSearchActions.Api\obj\Debug\net5.0\ServiceSearchActions.Api.AssemblyInfoInputs.cache
+C:\Users\ja-ni\OneDrive\Área de Trabalho\Projeto JHF\Service\ServiceSearchActions.Api\obj\Debug\net5.0\ServiceSearchActions.Api.AssemblyInfo.cs
+C:\Users\ja-ni\OneDrive\Área de Trabalho\Projeto JHF\Service\ServiceSearchActions.Api\obj\Debug\net5.0\ServiceSearchActions.Api.csproj.CoreCompileInputs.cache
+C:\Users\ja-ni\OneDrive\Área de Trabalho\Projeto JHF\Service\ServiceSearchActions.Api\obj\Debug\net5.0\ServiceSearchActions.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ja-ni\OneDrive\Área de Trabalho\Projeto JHF\Service\ServiceSearchActions.Api\obj\Debug\net5.0\ServiceSearchActions.Api.sourcelink.json
+C:\Users\ja-ni\OneDrive\Área de Trabalho\Projeto JHF\Service\ServiceSearchActions.Api\obj\Debug\net5.0\ServiceSearchActions.Api.RazorTargetAssemblyInfo.cache
+C:\Users\ja-ni\OneDrive\Área de Trabalho\Projeto JHF\Service\ServiceSearchActions.Api\obj\Debug\net5.0\scopedcss\bundle\ServiceSearchActions.Api.styles.css
+C:\Users\ja-ni\OneDrive\Área de Trabalho\Projeto JHF\Service\ServiceSearchActions.Api\obj\Debug\net5.0\staticwebassets\ServiceSearchActions.Api.StaticWebAssets.Manifest.cache
+C:\Users\ja-ni\OneDrive\Área de Trabalho\Projeto JHF\Service\ServiceSearchActions.Api\obj\Debug\net5.0\staticwebassets\ServiceSearchActions.Api.StaticWebAssets.Pack.cache
+C:\Users\ja-ni\OneDrive\Área de Trabalho\Projeto JHF\Service\ServiceSearchActions.Api\obj\Debug\net5.0\staticwebassets\msbuild.ServiceSearchActions.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ja-ni\OneDrive\Área de Trabalho\Projeto JHF\Service\ServiceSearchActions.Api\obj\Debug\net5.0\staticwebassets\msbuild.build.ServiceSearchActions.Api.props
+C:\Users\ja-ni\OneDrive\Área de Trabalho\Projeto JHF\Service\ServiceSearchActions.Api\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.ServiceSearchActions.Api.props
+C:\Users\ja-ni\OneDrive\Área de Trabalho\Projeto JHF\Service\ServiceSearchActions.Api\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.ServiceSearchActions.Api.props
+C:\Users\ja-ni\OneDrive\Área de Trabalho\Projeto JHF\Service\ServiceSearchActions.Api\obj\Debug\net5.0\ServiceSearchActions.Api.dll
+C:\Users\ja-ni\OneDrive\Área de Trabalho\Projeto JHF\Service\ServiceSearchActions.Api\obj\Debug\net5.0\refint\ServiceSearchActions.Api.dll
+C:\Users\ja-ni\OneDrive\Área de Trabalho\Projeto JHF\Service\ServiceSearchActions.Api\obj\Debug\net5.0\ServiceSearchActions.Api.pdb
+C:\Users\ja-ni\OneDrive\Área de Trabalho\Projeto JHF\Service\ServiceSearchActions.Api\obj\Debug\net5.0\ServiceSearchActions.Api.genruntimeconfig.cache
+C:\Users\ja-ni\OneDrive\Área de Trabalho\Projeto JHF\Service\ServiceSearchActions.Api\obj\Debug\net5.0\ref\ServiceSearchActions.Api.dll

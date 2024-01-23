@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ServiceSearchActions.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f29bd4f6e66359b4f278139c459245565d05aff6")]
 [assembly: System.Reflection.AssemblyProductAttribute("ServiceSearchActions.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ServiceSearchActions.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

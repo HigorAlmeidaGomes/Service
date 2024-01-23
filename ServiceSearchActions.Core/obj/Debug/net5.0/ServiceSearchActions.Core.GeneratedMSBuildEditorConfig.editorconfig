@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ServiceSearchActions.Core
-build_property.ProjectDir = D:\JHF\ServiceSearchActions.Core\
+build_property.ProjectDir = C:\Users\ja-ni\OneDrive\Área de Trabalho\Projeto JHF\Service\ServiceSearchActions.Core\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

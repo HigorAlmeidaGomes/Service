@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Higor-PC\\.nuget\\packages\\": {}
+    "C:\\Users\\ja-ni\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\JHF\\ServiceSearchActions.Infrastructure\\ServiceSearchActions.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\ja-ni\\OneDrive\\Área de Trabalho\\Projeto JHF\\Service\\ServiceSearchActions.Infrastructure\\ServiceSearchActions.Infrastructure.csproj",
       "projectName": "ServiceSearchActions.Infrastructure",
-      "projectPath": "D:\\JHF\\ServiceSearchActions.Infrastructure\\ServiceSearchActions.Infrastructure.csproj",
-      "packagesPath": "C:\\Users\\Higor-PC\\.nuget\\packages\\",
-      "outputPath": "D:\\JHF\\ServiceSearchActions.Infrastructure\\obj\\",
+      "projectPath": "C:\\Users\\ja-ni\\OneDrive\\Área de Trabalho\\Projeto JHF\\Service\\ServiceSearchActions.Infrastructure\\ServiceSearchActions.Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\ja-ni\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ja-ni\\OneDrive\\Área de Trabalho\\Projeto JHF\\Service\\ServiceSearchActions.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Higor-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ja-ni\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
