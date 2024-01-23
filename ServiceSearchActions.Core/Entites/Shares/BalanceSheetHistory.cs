@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ServiceSearchActions.Core.Entites.Shares
 {
-    public class BalanceSheetHistory
+    public class BalanceSheetHistory : BaseEntity
     {
         public DateTime EndDate { get; set; }
         public long Cash { get; set; }
