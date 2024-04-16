@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ja-ni\\OneDrive\\Área de Trabalho\\Projeto JHF\\Service\\ServiceSearchActions.Infrastructure\\ServiceSearchActions.Infrastructure.csproj": {}
+    "D:\\Projetos\\JHF\\SERVICE_SEARCH_ACTIONS\\ServiceSearchActions.Infrastructure\\ServiceSearchActions.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ja-ni\\OneDrive\\Área de Trabalho\\Projeto JHF\\Service\\ServiceSearchActions.Infrastructure\\ServiceSearchActions.Infrastructure.csproj": {
+    "D:\\Projetos\\JHF\\SERVICE_SEARCH_ACTIONS\\ServiceSearchActions.Core\\ServiceSearchActions.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ja-ni\\OneDrive\\Área de Trabalho\\Projeto JHF\\Service\\ServiceSearchActions.Infrastructure\\ServiceSearchActions.Infrastructure.csproj",
-        "projectName": "ServiceSearchActions.Infrastructure",
-        "projectPath": "C:\\Users\\ja-ni\\OneDrive\\Área de Trabalho\\Projeto JHF\\Service\\ServiceSearchActions.Infrastructure\\ServiceSearchActions.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\ja-ni\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ja-ni\\OneDrive\\Área de Trabalho\\Projeto JHF\\Service\\ServiceSearchActions.Infrastructure\\obj\\",
+        "projectUniqueName": "D:\\Projetos\\JHF\\SERVICE_SEARCH_ACTIONS\\ServiceSearchActions.Core\\ServiceSearchActions.Core.csproj",
+        "projectName": "ServiceSearchActions.Core",
+        "projectPath": "D:\\Projetos\\JHF\\SERVICE_SEARCH_ACTIONS\\ServiceSearchActions.Core\\ServiceSearchActions.Core.csproj",
+        "packagesPath": "C:\\Users\\Higor Gomes\\.nuget\\packages\\",
+        "outputPath": "D:\\Projetos\\JHF\\SERVICE_SEARCH_ACTIONS\\ServiceSearchActions.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ja-ni\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Higor Gomes\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -34,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -55,7 +60,91 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projetos\\JHF\\SERVICE_SEARCH_ACTIONS\\ServiceSearchActions.Infrastructure\\ServiceSearchActions.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projetos\\JHF\\SERVICE_SEARCH_ACTIONS\\ServiceSearchActions.Infrastructure\\ServiceSearchActions.Infrastructure.csproj",
+        "projectName": "ServiceSearchActions.Infrastructure",
+        "projectPath": "D:\\Projetos\\JHF\\SERVICE_SEARCH_ACTIONS\\ServiceSearchActions.Infrastructure\\ServiceSearchActions.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Higor Gomes\\.nuget\\packages\\",
+        "outputPath": "D:\\Projetos\\JHF\\SERVICE_SEARCH_ACTIONS\\ServiceSearchActions.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Higor Gomes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Projetos\\JHF\\SERVICE_SEARCH_ACTIONS\\ServiceSearchActions.Core\\ServiceSearchActions.Core.csproj": {
+                "projectPath": "D:\\Projetos\\JHF\\SERVICE_SEARCH_ACTIONS\\ServiceSearchActions.Core\\ServiceSearchActions.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.78, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

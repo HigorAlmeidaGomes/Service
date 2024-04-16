@@ -18,11 +18,11 @@ namespace ServiceSearchActions.Core.Entites.Shares
         public double HeldPercentInstitutions { get; set; }
         public double Beta { get; set; }
         public long ImpliedSharesOutstanding { get; set; }
-        public object Category { get; set; }
+        public string Category { get; set; }
         public double BookValue { get; set; }
         public double PriceToBook { get; set; }
-        public object FundFamily { get; set; }
-        public object LegalType { get; set; }
+        public string FundFamily { get; set; }
+        public string LegalType { get; set; }
         public DateTime LastFiscalYearEnd { get; set; }
         public DateTime NextFiscalYearEnd { get; set; }
         public DateTime MostRecentQuarter { get; set; }

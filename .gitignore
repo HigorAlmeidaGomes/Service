@@ -10,3 +10,12 @@
 /.vs/ServiceSearchActions/FileContentIndex/bacad43e-92b7-4365-ba74-8c0f4a3d6fc5.vsidx
 /.vs/ServiceSearchActions/FileContentIndex/aa30052b-1c00-4193-9950-4b2efa9a96a2.vsidx
 /.vs/ServiceSearchActions/FileContentIndex/3bdbe1e1-3787-4a5d-a522-6bf049f39f10.vsidx
+/.vs/ServiceSearchActions.Api/bin/
+/.vs/ServiceSearchActions.Api/obj/
+/.vs/ServiceSearchActions.Application/bin/
+/.vs/ServiceSearchActions.Application/obj/
+/.vs/ServiceSearchActions.Core/bin/
+/.vs/ServiceSearchActions.Core/obj/
+/.vs/ServiceSearchActions.Infrastructure/bin/
+/.vs/ServiceSearchActions.Infrastructure/bin/
+

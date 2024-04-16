@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ja-ni\\OneDrive\\Área de Trabalho\\Projeto JHF\\Service\\ServiceSearchActions.Application\\ServiceSearchActions.Application.csproj": {}
+    "D:\\Projetos\\JHF\\SERVICE_SEARCH_ACTIONS\\ServiceSearchActions.Application\\ServiceSearchActions.Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ja-ni\\OneDrive\\Área de Trabalho\\Projeto JHF\\Service\\ServiceSearchActions.Application\\ServiceSearchActions.Application.csproj": {
+    "D:\\Projetos\\JHF\\SERVICE_SEARCH_ACTIONS\\ServiceSearchActions.Application\\ServiceSearchActions.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ja-ni\\OneDrive\\Área de Trabalho\\Projeto JHF\\Service\\ServiceSearchActions.Application\\ServiceSearchActions.Application.csproj",
+        "projectUniqueName": "D:\\Projetos\\JHF\\SERVICE_SEARCH_ACTIONS\\ServiceSearchActions.Application\\ServiceSearchActions.Application.csproj",
         "projectName": "ServiceSearchActions.Application",
-        "projectPath": "C:\\Users\\ja-ni\\OneDrive\\Área de Trabalho\\Projeto JHF\\Service\\ServiceSearchActions.Application\\ServiceSearchActions.Application.csproj",
-        "packagesPath": "C:\\Users\\ja-ni\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ja-ni\\OneDrive\\Área de Trabalho\\Projeto JHF\\Service\\ServiceSearchActions.Application\\obj\\",
+        "projectPath": "D:\\Projetos\\JHF\\SERVICE_SEARCH_ACTIONS\\ServiceSearchActions.Application\\ServiceSearchActions.Application.csproj",
+        "packagesPath": "C:\\Users\\Higor Gomes\\.nuget\\packages\\",
+        "outputPath": "D:\\Projetos\\JHF\\SERVICE_SEARCH_ACTIONS\\ServiceSearchActions.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ja-ni\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Higor Gomes\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -34,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -55,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

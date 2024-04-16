@@ -9,3 +9,15 @@ D:\JHF\ServiceSearchActions.Application\obj\Debug\net5.0\ServiceSearchActions.Ap
 D:\JHF\ServiceSearchActions.Application\obj\Debug\net5.0\refint\ServiceSearchActions.Application.dll
 D:\JHF\ServiceSearchActions.Application\obj\Debug\net5.0\ServiceSearchActions.Application.pdb
 D:\JHF\ServiceSearchActions.Application\obj\Debug\net5.0\ref\ServiceSearchActions.Application.dll
+D:\Projetos\JHF\SERVICE_SEARCH_ACTIONS\ServiceSearchActions.Application\bin\Debug\net5.0\ServiceSearchActions.Application.deps.json
+D:\Projetos\JHF\SERVICE_SEARCH_ACTIONS\ServiceSearchActions.Application\bin\Debug\net5.0\ServiceSearchActions.Application.dll
+D:\Projetos\JHF\SERVICE_SEARCH_ACTIONS\ServiceSearchActions.Application\bin\Debug\net5.0\ServiceSearchActions.Application.pdb
+D:\Projetos\JHF\SERVICE_SEARCH_ACTIONS\ServiceSearchActions.Application\obj\Debug\net5.0\ServiceSearchActions.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\JHF\SERVICE_SEARCH_ACTIONS\ServiceSearchActions.Application\obj\Debug\net5.0\ServiceSearchActions.Application.AssemblyInfoInputs.cache
+D:\Projetos\JHF\SERVICE_SEARCH_ACTIONS\ServiceSearchActions.Application\obj\Debug\net5.0\ServiceSearchActions.Application.AssemblyInfo.cs
+D:\Projetos\JHF\SERVICE_SEARCH_ACTIONS\ServiceSearchActions.Application\obj\Debug\net5.0\ServiceSearchActions.Application.csproj.CoreCompileInputs.cache
+D:\Projetos\JHF\SERVICE_SEARCH_ACTIONS\ServiceSearchActions.Application\obj\Debug\net5.0\ServiceSearchActions.Application.sourcelink.json
+D:\Projetos\JHF\SERVICE_SEARCH_ACTIONS\ServiceSearchActions.Application\obj\Debug\net5.0\ServiceSearchActions.Application.dll
+D:\Projetos\JHF\SERVICE_SEARCH_ACTIONS\ServiceSearchActions.Application\obj\Debug\net5.0\refint\ServiceSearchActions.Application.dll
+D:\Projetos\JHF\SERVICE_SEARCH_ACTIONS\ServiceSearchActions.Application\obj\Debug\net5.0\ServiceSearchActions.Application.pdb
+D:\Projetos\JHF\SERVICE_SEARCH_ACTIONS\ServiceSearchActions.Application\obj\Debug\net5.0\ref\ServiceSearchActions.Application.dll
